@@ -26,21 +26,21 @@ function Home() {
               <a className="mr-2" href="#">
                 <img
                   className="h-6 max-[950px]:h-5"
-                  src="src\assets\socialmediaicon\youtube.png"
+                  src="/assets/socialMediaIcon/youtube.png"
                   alt=""
                 />
               </a>
               <a className="mr-2" href="#">
                 <img
                   className="h-6 max-[950px]:h-5"
-                  src="src\assets\socialmediaicon\Facebook.png"
+                  src="/assets/socialMediaIcon/Facebook.png"
                   alt=""
                 />
               </a>
               <a className="mr-2" href="#">
                 <img
                   className="h-6 max-[950px]:h-5"
-                  src="src\assets\socialmediaicon\Instagram.png"
+                  src="/assets/socialMediaIcon/Instagram.png"
                   alt=""
                 />
               </a>
@@ -50,21 +50,21 @@ function Home() {
               >
                 <img
                   className="h-6 max-[950px]:h-5"
-                  src="src\assets\socialmediaicon\linkedin.png"
+                  src="/assets/socialMediaIcon/linkedin.png"
                   alt=""
                 />
               </a>
               <a className="mr-2" href="#">
                 <img
                   className="h-6 max-[950px]:h-5"
-                  src="src\assets\socialmediaicon\X-logo.png"
+                  src="/assets/socialMediaIcon/X-logo.png"
                   alt=""
                 />
               </a>
               <a className="mr-2" href="https://github.com/goutamdogri">
                 <img
                   className="h-6 max-[950px]:h-5"
-                  src="src\assets\socialmediaicon\github.png"
+                  src="/assets/socialMediaIcon/github.png"
                   alt=""
                 />
               </a>
@@ -75,7 +75,7 @@ function Home() {
         <div className="w-7/12 min-[1428px]:w-6/12 max-[550px]:w-8/12 max-[450px]:w-9/12 h-full flex justify-center items-center pt-12 relative">
           <img
             className="absolute  bottom-0"
-            src="src\assets\photo element cropped bg removed.webp"
+            src="/assets/photo element cropped bg removed.webp"
             alt=""
           />
         </div>

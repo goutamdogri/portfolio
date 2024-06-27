@@ -26,7 +26,7 @@ function Projects() {
             <div className="bg-page-light rounded-2xl rotate-[20deg] hover:rotate-[10deg] transition">
               <img
                 className=" -rotate-[10deg] hover:rotate-[10deg] rounded-2xl transition"
-                src="src\assets\projectsAsset\vidshareFront.webp"
+                src="/assets/projectsAsset/vidshareFront.webp"
                 alt=""
               />
             </div>

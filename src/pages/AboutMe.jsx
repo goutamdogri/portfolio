@@ -8,7 +8,7 @@ function AboutMe() {
               <div className=" w-1/2 mb-4 p-4 bg-page-light rounded-3xl aspect-square flex flex-col justify-center items-center">
                 <img
                   className="w-7/12"
-                  src="src\assets\projectsAsset\portfolio1.png"
+                  src="/assets/projectsAsset/portfolio1.png"
                   alt=""
                 />
                 <p className="mt-3 text-lg max-[600px]:text-base max-[500px]:text-sm max-[430px]:px-8 font-medium whitespace-nowrap">
@@ -19,7 +19,7 @@ function AboutMe() {
               <div className=" w-1/2 mt-4 p-4 bg-page-light rounded-3xl aspect-square  flex flex-col justify-center items-center ">
                 <img
                   className="w-7/12"
-                  src="src\assets\projectsAsset\landingPage.png"
+                  src="/assets/projectsAsset/landingPage.png"
                   alt=""
                 />
                 <p className="mt-3 text-lg max-[600px]:text-base max-[500px]:text-sm max-[430px]:px-8 font-medium whitespace-nowrap">
@@ -32,7 +32,7 @@ function AboutMe() {
               <div className=" w-1/2 mb-4 p-4 bg-page-light rounded-3xl aspect-square flex flex-col justify-center items-center">
                 <img
                   className="w-7/12"
-                  src="src\assets\projectsAsset\shoppingCart.png"
+                  src="/assets/projectsAsset/shoppingCart.png"
                   alt=""
                 />
                 <p className="mt-3 text-lg max-[600px]:text-base max-[500px]:text-sm max-[430px]:px-8 font-medium whitespace-nowrap">
@@ -43,7 +43,7 @@ function AboutMe() {
               <div className="w-1/2 mt-4 p-4 bg-page-light rounded-3xl aspect-square  flex flex-col justify-center items-center">
                 <img
                   className="w-7/12"
-                  src="src\assets\projectsAsset\socialMedia.png"
+                  src="/assets/projectsAsset/socialMedia.png"
                   alt=""
                 />
                 <p className="mt-3 text-lg max-[600px]:text-base max-[500px]:text-sm max-[430px]:px-8 font-medium whitespace-nowrap">
