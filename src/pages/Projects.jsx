@@ -18,6 +18,25 @@ function Projects() {
               seamless user experience through best practices and continuous
               feedback integration.
             </p>
+            <div className="flex mt-4">
+              <p className="text-xl font-medium">Github</p>
+              <div className="flex items-center ml-2">
+                <i className="fa-solid fa-arrow-right"></i>
+              </div>
+            </div>
+
+            <div className="my-2">
+              <a href="https://github.com/goutamdogri/VidShare-frontend">
+                <button className=" bg-gradient-to-r from-btn-dark to-btn-light text-white px-4 h-11 w-fit rounded-xl font-normalText hover:from-[#3c3cba] hover:to-[#8b8bff]">
+                  Frontend
+                </button>
+              </a>
+              <a href="https://github.com/goutamdogri/VidShare">
+                <button className="ml-4 bg-gradient-to-r from-btn-dark to-btn-light text-white px-4 h-11 w-fit rounded-xl font-normalText hover:from-[#3c3cba] hover:to-[#8b8bff]">
+                  Backend
+                </button>
+              </a>
+            </div>
           </div>
         </div>
 
