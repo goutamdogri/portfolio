@@ -21,8 +21,8 @@ function Projects() {
           </div>
         </div>
 
-        <div className="flex items-center justify-center p-10 max-[850px]:w-7/12 max-[750px]:w-8/12 max-[650px]:w-9/12 max-[550px]:w-10/12">
-          <a href="">
+        <div className="flex items-center justify-center p-10 max-[850px]:w-7/12 max-[750px]:w-8/12 max-[650px]:w-9/12 max-[550px]:w-10/12 max-[400px]:w-full">
+          <a href="https://vidshare.goutamdogri.com">
             <div className="bg-page-light rounded-2xl rotate-[20deg] hover:rotate-[10deg] transition">
               <img
                 className=" -rotate-[10deg] hover:rotate-[10deg] rounded-2xl transition"
